@@ -15,6 +15,7 @@ LANGUAGES = [
     {'code': 'it', 'name': 'Italiano'},
     {'code': 'es', 'name': 'Español'},
     {'code': 'pt', 'name': 'Português'},
+    {'code': 'zh', 'name': '简体中文'},
 ]
 DEFAULT_LANGUAGE = 'en'
 SUPPORTED_LANGUAGES = [lang['code'] for lang in LANGUAGES]
